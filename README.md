@@ -2,7 +2,7 @@
 > ## Archived
 > This project is archived and no longer maintained.
 >
-> Its features have been merged into [pdfsmith](https://github.com/tsilva/pdfsmith). Please use pdfsmith instead.
+> Its features have been merged into [pdfsmith](https://github.com/tsilva/pdfpress). Please use pdfpress instead.
 
 <div align="center">
   <img src="logo.png" alt="pdf-gluer" width="512"/>
