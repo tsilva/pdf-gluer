@@ -1,19 +1,20 @@
+<p align="center">
+  <img src="logo.png" alt="pdf-gluer" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>📄 Find and merge related PDFs with one command 🔗</strong>
+  <!-- repo-tagline:end -->
+</p>
+
+[![PyPI](https://img.shields.io/pypi/v/pdf-gluer.svg)](https://pypi.org/project/pdf-gluer/)
+  [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 > [!WARNING]
 > ## Archived
 > This project is archived and no longer maintained.
 >
 > Its features have been merged into [pdfsmith](https://github.com/tsilva/pdfpress). Please use pdfpress instead.
-
-<div align="center">
-  <img src="logo.png" alt="pdf-gluer" width="512"/>
-
-  [![PyPI](https://img.shields.io/pypi/v/pdf-gluer.svg)](https://pypi.org/project/pdf-gluer/)
-  [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-  **📄 Intelligently find and merge related PDF files with a single command 🔗**
-
-</div>
 
 ## Overview
 
